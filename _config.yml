@@ -4,7 +4,7 @@ description: "Random short description of your blog can go here." # This will sh
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+# email: "example@mail.com"
 twitter_username: "toledoroy"
 github_username: "toledoroy"
 linkedin_username: "toledoroy"
